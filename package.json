@@ -1,0 +1,16 @@
+{
+  "name": "simple_node_app",
+  "version": "1.0.0",
+  "description": "A simple Node.js application using Express.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "keywords": ["node", "express", "simple"],
+  "author": "Your Name",
+  "license": "MIT"
+}
